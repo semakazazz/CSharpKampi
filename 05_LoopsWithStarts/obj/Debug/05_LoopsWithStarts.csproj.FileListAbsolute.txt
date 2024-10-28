@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\01_MainSubjects\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\01_MainSubjects\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\01_MainSubjects\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe.config
+C:\Users\Huawei\source\repos\01_MainSubjects\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe
+C:\Users\Huawei\source\repos\01_MainSubjects\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.pdb
+C:\Users\Huawei\source\repos\01_MainSubjects\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.exe
+C:\Users\Huawei\source\repos\01_MainSubjects\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.pdb

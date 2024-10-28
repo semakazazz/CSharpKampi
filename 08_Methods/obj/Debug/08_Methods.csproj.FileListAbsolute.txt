@@ -1,0 +1,7 @@
+C:\Users\Huawei\source\repos\01_MainSubjects\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\Huawei\source\repos\01_MainSubjects\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\Huawei\source\repos\01_MainSubjects\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\Huawei\source\repos\01_MainSubjects\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\01_MainSubjects\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\01_MainSubjects\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\Huawei\source\repos\01_MainSubjects\08_Methods\obj\Debug\08_Methods.pdb
